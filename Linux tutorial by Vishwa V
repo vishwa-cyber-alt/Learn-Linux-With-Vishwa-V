@@ -1,0 +1,13 @@
+representations:
+filename=f
+foldername=fn
+ls 
+mkdir fn
+rmdir fn
+touch f.txt
+pwd
+ifconfig
+cd 
+cd ..
+sudo su
+sudo bash
